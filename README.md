@@ -41,6 +41,14 @@ Feel free to explore and use these files as a reference to understand the basics
 
 Contributions to this repository are welcome. If you find any issues or have improvements to suggest, please open an issue or submit a pull request. Let's learn and improve together!
 
+## Credits
+
+CODANICS is brought to you with inspiration from Dr Aammar's YouTube channel, Codanics. As a dedicated learner, I've drawn insights and knowledge, including Data Science, from Dr Aammar's informative content on coding and development.
+
+Learn Data Science and more from Dr Aammar on his YouTube channel: [Codanics](https://www.youtube.com/@Codanics)
+
+A special thanks to Dr Aammar for sharing his expertise and fostering a learning community through Codanics.
+
 ## License
 
 This repository is licensed under the MIT License. You are free to use the code for personal or educational purposes.
